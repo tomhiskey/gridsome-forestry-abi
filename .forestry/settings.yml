@@ -7,7 +7,6 @@ sections:
 - type: document
   path: bob
   label: Bob page
-  match: "**/*"
 - type: directory
   path: projects
   label: Projects
